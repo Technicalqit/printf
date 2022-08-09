@@ -201,5 +201,3 @@ unsigned int convert_R(va_list args, buffer_t *output,
 
 	return (ret);
 }
-
-
